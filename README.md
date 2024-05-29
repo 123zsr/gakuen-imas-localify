@@ -16,7 +16,7 @@
 - [ ] 卡片信息、TIP等部分的文本 hook
 - [ ] 更多类型的文件替换
 
-... and more
+... and moree
 
 
 
